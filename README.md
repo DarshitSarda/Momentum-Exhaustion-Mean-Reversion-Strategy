@@ -235,19 +235,6 @@ UMC-Fibonacci-Strategy/
 
 ---
 
-## Academic References
-
-1. **Fibonacci Retracements in Technical Analysis**  
-   - Brown, C. (2008). *Fibonacci Analysis*. Bloomberg Press.
-
-2. **Momentum-Reversion Asymmetry**  
-   - Jegadeesh, N., & Titman, S. (1993). "Returns to Buying Winners and Selling Losers." *Journal of Finance*, 48(1), 65-91.
-
-3. **Backtesting Best Practices**  
-   - Prado, M. L. de. (2018). *Advances in Financial Machine Learning*. Wiley.
-
----
-
 ## License
 
 This project is released under the **MIT License**. See `LICENSE` file for details.
