@@ -1,4 +1,4 @@
-# UMC: Fibonacci-Based Stock Strategy - Automated Screening & Event-Driven Backtesting
+# Momentum Exhaustion and Mean Reversion Strategy
 
 ## Project Overview
 
